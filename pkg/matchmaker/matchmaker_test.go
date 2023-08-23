@@ -2,7 +2,7 @@ package matchmaker_test
 
 import (
 	"fmt"
-	mm "matchmaker/matchmaker"
+	mm "github.com/m273d15/matchmaker/pkg/matchmaker"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

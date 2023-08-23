@@ -4,7 +4,7 @@ package porcelain
 
 import (
 	"errors"
-	"matchmaker/pkg/matchmaker"
+	"github.com/m273d15/matchmaker/pkg/matchmaker"
 )
 
 // Extracts a substring from a string.

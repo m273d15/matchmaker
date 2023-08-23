@@ -1,8 +1,8 @@
 package porcelain_test
 
 import (
-	"matchmaker/pkg/matchmaker"
-	"matchmaker/pkg/porcelain"
+	"github.com/m273d15/matchmaker/pkg/matchmaker"
+	"github.com/m273d15/matchmaker/pkg/porcelain"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
